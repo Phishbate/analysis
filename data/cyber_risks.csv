@@ -1,0 +1,5 @@
+﻿Cyber event,Probability,Lower,Upper
+Ransomware,0.2,50000,25000
+SQL injection,0.1,20000,100000
+Employee data exfiltration,0.6,2000,80000
+Weak passwords cracked,0.4,30000,300000
