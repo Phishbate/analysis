@@ -1,0 +1,82 @@
+﻿Recommendation,Description,Link,Action
+Back up your data,"Backing up your business’s data and website will help you recover any information you lose if you experience a cyber incident or have computer issues. It’s essential that you back up your most important data and information regularly. Fortunately, backing up doesn’t generally cost much and is easy to do.
+It’s a good idea to use multiple back-up methods to help ensure the safety of your important files. A good back up system typically includes:
+daily incremental back-ups to a portable device and/or cloud storage
+end-of-week server back-ups
+quarterly server back-ups
+yearly server back-ups
+Regularly check and test that you can restore your data from your back up.
+Make it a habit to back up your data to an external drive or portable device like a USB stick. Store portable devices separately offsite, which will give your business a plan b if the office site is robbed or damaged. Do not leave the devices connected to the computer as they can be infected by a cyber-attack.
+Alternatively, you can also back up your data through a cloud storage solution. An ideal solution will use encryption when transferring and storing your data, and provides multi-factor authentication for access.",,
+Secure your devices and network,"Make sure you update your software
+Ensure you program your operating system and security software to update automatically. Updates may contain important security upgrades for recent viruses and attacks. Most updates allow you to schedule these updates after business hours, or another more convenient time. Updates fix serious security flaws, so it is important to never ignore update prompts.
+Install security software
+Install security software on your business computers and devices to help prevent infection. Make sure the software includes anti-virus, anti-spyware and anti-spam filters. Malware or viruses can infect your computers, laptops and mobile devices.
+Set up a firewall
+A firewall is a piece of software or hardware that sits between your computer and the internet. It acts as the gatekeeper for all incoming and outgoing traffic. Setting up a firewall will protect your business’s internal networks, but do need to be regularly patched in order to do their job. Remember to install the firewall on all your portable business devices.
+Turn on your spam filters
+Use spam filters to reduce the amount of spam and phishing emails that your business receives. Spam and phishing emails can be used to infect your computer with viruses or malware or steal your confidential information. If you receive spam or phishing emails, the best thing to do is delete them. Applying a spam filter will help reduce the chance of you or your employees opening a spam or dishonest email by accident.",,
+Encrypt important information,"Make sure you turn on your network encryption and encrypt data when stored or sent online. Encryption converts your data into a secret code before you send it over the internet. This reduces the risk of theft, destruction or tampering. You can turn on network encryption through your router settings or by installing a virtual private network (VPN) solution on your device when using a public network.",,
+Ensure you use multi-factor authentication (MFA),"Multi-factor authentication (MFA) is a verification security process that requires you to provide two or more proofs of your identity before you can access your account. For example, a system will require a password and a code sent to your mobile device before access is granted. Multi-factor authentication adds an additional layer of security to make it harder for attackers to gain access to your device or online accounts.",,
+Manage passphrases,"Use passphrases instead of passwords to protect access to your devices and networks that hold important business information. Passphrases are passwords that is a phrase, or a collection of different words. They are simple for humans to remember but difficult for machines to crack.
+A secure passphrase should be:
+long - aim for passphrases that are at least 14 characters long, or four or more random words put together
+complex - include capital letters, lowercase letters, numbers and special characters in your passphrase
+unpredictable - while a sentence can make a good passphrase, having a group of unrelated words will make a stronger passphrase
+unique - don't reuse the same passphrase for all of your accounts
+If you use the same passphrase for everything and someone gets hold of it, all your accounts could be at risk. Consider using a password manager that securely stores and creates passphrases for you.",,
+Administrative privileges,"
+To avoid a cybercriminal gaining access to your computer or network:
+change all default passwords to new passphrases that can’t be easily guessed
+restrict use of accounts with administrative privileges
+restrict access to accounts with administrative privileges
+look at disabling administrative access entirely
+Administrative privileges allow someone to undertake higher or more sensitive tasks than normal, such as installing programs or creating other accounts. These will be very different from standard privileges or guest user privileges. Criminals will often seek these privileges to give them greater access and control of your business.
+To reduce this risk, create a standard user account with a strong passphrase you can use on a daily basis. Only use accounts with administrative privileges when necessary, limit those who have access, and never read emails or use the internet when using an account with administrative privileges.",,
+Monitor use of computer equipment and systems,"Keep a record of all the computer equipment and software that your business uses. Make sure they are secure to prevent forbidden access.
+Remind your employees to be careful about:
+where and how they keep their devices
+the networks they connect their devices to, such as public Wi-Fi
+using USB sticks or portable hard drives - unknown viruses and other threats could be accidentally transferred on them from home to your business.
+Remove any software or equipment that you no longer need, making sure that there isn’t any sensitive information on them when thrown out. If older and unused software or equipment remain part of your business network, it is unlikely they will be updated and may be a backdoor targeted by criminals to attack your business.
+Unauthorised access to systems by past employees is a common security issue for businesses. Immediately remove access from people who don’t work for you anymore or if they change roles and no longer require access.",,
+Put policies in place to guide your staff,"A cyber security policy helps your staff to understand their responsibilities and what is acceptable when they use or share:
+data
+computers and devices
+emails
+internet sites",,
+Train your staff to be safe online,"Your staff can be the first and last line of defence against cyber threats. It’s important to make sure your staff know about the threats they can face and the role they play in keeping your business safe.
+Educate them about:
+maintaining good passwords and passphrases
+how to identify and avoid cyber threats
+what to do when they encounter a cyber threat
+how to report a cyber threat.",,
+Protect your customers,"It’s vital that you keep your customers information safe. If you lose or compromise their information it will damage your business reputation, and you could face legal consequences.
+Make sure your business:
+invests in and provides a secure online environment for transactions
+secures any personal customer information that it stores
+If you take payments online, find out what your payment gateway provider can do to prevent online payment fraud.
+There are laws about what you can do with any personal information you collect from your customers. Be aware of the Australian Privacy Principles (APPs) and have a clear, up-to-date privacy policy. If your business is online, it’s a good idea to display your privacy policy on your website.",,
+Consider cyber security insurance ,"Consider cyber insurance to protect your business. The cost of dealing with a cyber-attack can be much more than just repairing databases, strengthening security or replacing laptops. Cyber liability insurance cover can help your business with the costs of recovering from an attack. Like all insurance policies, it is very important your business understands what it is covered for.",,
+Get updates on the latest risks,Keep up with the latest scams and security risks to your business. Sign up for the Australian Cyber Security Centre's (ACSC) Partnership Program for access to up-to-date information on cyber security issues and how to deal with them.,,
+Get cyber security advice,"If you want to talk to someone about cyber security, the ACSC has a 24/7 Cyber Security Hotline.
+The hotline provides over the phone support to both prepare for and respond to cyber incidents. Learn more on the ACSC website or call 1300 CYBER1",,
+Keep your devices and software up to date,,,Now
+Use multi-factor authentication,,,Now
+"Limit access to your devices, systems and applications",,,Now
+Test your business backups on a regular basis,,,Now
+Use strong passwords,,,Now
+Control or manage software installation,,,Now
+Detect cyber security issues in your internal IT systems,,,Next
+"Handle sensitive client, business and staff information securely",,,Next
+Dispose of or re-purpose sensitive information securely,,,Next
+Use secure methods to share confidential or sensitive information,,,Next
+Provide staff cyber security awareness training,,,Next
+Carry out regular security testing ,,,Later
+Address issues identified through security testing,,,Later
+Understand your business' compliance obligations,,,Later
+"Keep your business mobile phones, laptops and tablets secure",,,Later
+Recover your business systems after a cyber security incident,,,Later
+Select suppliers who are diligent with cyber security,,,Later
+Create a plan to respond to cyber security incidents,,,Later
+Conduct background screenings when hiring new staff,,,Later
